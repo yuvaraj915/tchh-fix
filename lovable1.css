@@ -9,6 +9,7 @@
     
     /* Menu specific colors */
     --menu-background: hsl(0, 0%, 100%);
+    --menu-overlay: hsla(0, 0%, 0%, 0.5);
     
     
     /* Gradients */
@@ -391,3 +392,4 @@ body {
     }
 
 }
+
