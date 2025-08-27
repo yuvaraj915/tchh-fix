@@ -25,16 +25,7 @@
     --shadow-button: 0 4px 6px -1px hsla(258, 89%, 66%, 0.1), 0 2px 4px -1px hsla(258, 89%, 66%, 0.06);
 }
 
-/* Dark mode */
- :root {
-        --background: hsl(222, 84%, 5%);
-        --foreground: hsl(210, 40%, 98%);
-        --secondary: hsl(217, 33%, 18%);
-        --muted: hsl(215, 20%, 65%);
-        --border: hsl(217, 33%, 18%);
-        --menu-background: hsl(222, 84%, 5%);
-        --menu-overlay: hsla(0, 0%, 0%, 0.8);
-    }
+
 
 
 
@@ -392,5 +383,6 @@ body {
     }
 
 }
+
 
 
