@@ -24,6 +24,9 @@
     --shadow-menu: 0 20px 25px -5px hsla(258, 89%, 66%, 0.1), 0 10px 10px -5px hsla(258, 89%, 66%, 0.04);
     --shadow-button: 0 4px 6px -1px hsla(258, 89%, 66%, 0.1), 0 2px 4px -1px hsla(258, 89%, 66%, 0.06);
 }
+:root {
+    color-scheme: light only;
+}
 
 
 
@@ -383,6 +386,7 @@ body {
     }
 
 }
+
 
 
 
